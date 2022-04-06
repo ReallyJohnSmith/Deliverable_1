@@ -1,0 +1,15 @@
+C:\Users\John\documents\deliverables\Sandwiches\Sandwiches\bin\Debug\net6.0\Sandwiches.exe
+C:\Users\John\documents\deliverables\Sandwiches\Sandwiches\bin\Debug\net6.0\Sandwiches.deps.json
+C:\Users\John\documents\deliverables\Sandwiches\Sandwiches\bin\Debug\net6.0\Sandwiches.runtimeconfig.json
+C:\Users\John\documents\deliverables\Sandwiches\Sandwiches\bin\Debug\net6.0\Sandwiches.dll
+C:\Users\John\documents\deliverables\Sandwiches\Sandwiches\bin\Debug\net6.0\Sandwiches.pdb
+C:\Users\John\documents\deliverables\Sandwiches\Sandwiches\obj\Debug\net6.0\Sandwiches.csproj.AssemblyReference.cache
+C:\Users\John\documents\deliverables\Sandwiches\Sandwiches\obj\Debug\net6.0\Sandwiches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\documents\deliverables\Sandwiches\Sandwiches\obj\Debug\net6.0\Sandwiches.AssemblyInfoInputs.cache
+C:\Users\John\documents\deliverables\Sandwiches\Sandwiches\obj\Debug\net6.0\Sandwiches.AssemblyInfo.cs
+C:\Users\John\documents\deliverables\Sandwiches\Sandwiches\obj\Debug\net6.0\Sandwiches.csproj.CoreCompileInputs.cache
+C:\Users\John\documents\deliverables\Sandwiches\Sandwiches\obj\Debug\net6.0\Sandwiches.dll
+C:\Users\John\documents\deliverables\Sandwiches\Sandwiches\obj\Debug\net6.0\refint\Sandwiches.dll
+C:\Users\John\documents\deliverables\Sandwiches\Sandwiches\obj\Debug\net6.0\Sandwiches.pdb
+C:\Users\John\documents\deliverables\Sandwiches\Sandwiches\obj\Debug\net6.0\Sandwiches.genruntimeconfig.cache
+C:\Users\John\documents\deliverables\Sandwiches\Sandwiches\obj\Debug\net6.0\ref\Sandwiches.dll
