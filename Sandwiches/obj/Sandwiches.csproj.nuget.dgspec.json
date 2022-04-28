@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John\\documents\\deliverables\\Sandwiches\\Sandwiches\\Sandwiches.csproj": {}
+    "C:\\Users\\John\\Documents\\deliverables\\Sandwiches\\Sandwiches\\Sandwiches.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John\\documents\\deliverables\\Sandwiches\\Sandwiches\\Sandwiches.csproj": {
+    "C:\\Users\\John\\Documents\\deliverables\\Sandwiches\\Sandwiches\\Sandwiches.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John\\documents\\deliverables\\Sandwiches\\Sandwiches\\Sandwiches.csproj",
+        "projectUniqueName": "C:\\Users\\John\\Documents\\deliverables\\Sandwiches\\Sandwiches\\Sandwiches.csproj",
         "projectName": "Sandwiches",
-        "projectPath": "C:\\Users\\John\\documents\\deliverables\\Sandwiches\\Sandwiches\\Sandwiches.csproj",
+        "projectPath": "C:\\Users\\John\\Documents\\deliverables\\Sandwiches\\Sandwiches\\Sandwiches.csproj",
         "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John\\documents\\deliverables\\Sandwiches\\Sandwiches\\obj\\",
+        "outputPath": "C:\\Users\\John\\Documents\\deliverables\\Sandwiches\\Sandwiches\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\John\\AppData\\Roaming\\NuGet\\NuGet.Config",
